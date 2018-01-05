@@ -1,0 +1,47 @@
+<html>
+<head>
+<style>
+   h{
+      color:red;
+   }
+   body{
+          background-image: url('rj.jpg');
+          background-repeat:no-repeat;
+          backgroound-size:auto;
+          backgorund-image:url('smily_gif.jpeg');
+   }
+   table,th,td{
+       border:1px solid black;
+       border-collapse:collapse;
+       padding:15px;
+   }
+   table{
+         border-spacing:15px;
+   }
+</style>
+</head>
+<body>
+<table style:width:100%;>
+    <tr>
+      <th>FIRST NAME</th>
+      <th>LAST NAME</th>
+      <th>AGE</th>
+    </tr>
+    <tr>
+      <td>rohan</td>
+      <td>thakran</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td>nitin</td>
+      <td>joshi</td>
+      <td>27</td>
+    </tr>
+</table>        
+<h>
+   it's my rule 
+   <strong>love</strong> your self if you want to love <br>
+   you never lost your destination
+</h>
+</body>
+</html>   
