@@ -1,0 +1,194 @@
+<html>
+<head>
+  <title>Facebook</title>
+  <link rel="icon" href="452.png">
+
+  <style>
+  .head{
+           margin-left: -3px;
+           margin-right: -3px;
+             position: fixed;
+            margin-top: -10px;
+          height: 85px;
+          width: 100%;
+          background-color: #3B5998;
+          color: white;
+          background-image: linear-gradient( #6d84b4);
+  }
+  .img{
+    padding-top: 30px;
+    margin-left: 290px;
+  }
+  .icomna{
+       margin-top: -12px;
+  }
+  .atr{
+          margin-top: 70px;
+          margin-left: 300px;
+  }
+  .create{
+            width: 1000px;
+            height: 1000px;
+            color:#161616;
+            margin-top: -305px;
+            margin-left: 875px;
+            font-size: 18px;
+            font-family: Arial, Helvetica, sans-serif;
+
+  }
+  .bir{
+            margin-top: 30px;
+  }
+  .re{
+          display: inline-block;
+  }
+  .agree {
+  font-size: 11px;
+  color: #777;
+  width:316px;
+  margin: 11px 0 11px ;
+}
+.link {
+  color:#3b5998;
+  display: inline-block;
+   text-decoration: underline;
+  cursor: pointer;
+}
+.why {
+  font-size: 11px;
+  color: #3b5998;
+  width:150px;
+  margin-left:10px;
+  cursor:pointer;
+}
+.fb1 {
+  display:inline-block;
+  vertical-align: middle;
+}
+.h:hover {
+  text-decoration: underline;
+}
+.signbut {
+  font-size: 19px;
+  cursor:pointer;
+  background-color: #79bc64;
+  color: white;
+  width: 200px;
+  margin-top: 22px;
+  margin-bottom: 22px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border: 1px solid;
+border-color: #3b6e22 #3b6e22 #2c5115;
+background:linear-gradient(#67ae55, #578843);
+  border-radius: 5px;
+}
+
+.signbut:hover {
+  background:linear-gradient(#79bc64, #578843);
+}
+.back{
+      background-image: linear-gradient( #ffffff,#d8dfea);
+      height: 550px;
+}
+.button{
+               background-color: #4e70b7;
+               color: white;
+               border: none;
+
+}
+.button:hover{
+                background-color: #3B5998;
+}
+
+.row2 {
+
+  color:#9daccb;
+  font-size:11px;
+  width:164px;
+  cursor:pointer;
+
+}
+.row2:hover{
+              display: inline-block;
+
+}
+
+
+
+
+
+
+  </style>
+</head>
+  <body>
+
+
+
+    <div class="head">
+      <div class="img">
+      <img src="re.png" style="width:172px;height:39px;">
+      <form style="margin-top:-52px; margin-left:612px; font-size:13px;font-family: Arial, Helvetica, sans-serif;">
+        Email or Phone
+        <br>
+        <input type="text" style="margin:4px; border:1px solid black; margin-left:-0.5px;">
+      </form>
+      <form style="margin-top:-55px; margin-left:778px; font-size:13px;font-family: Arial, Helvetica, sans-serif; ">
+        Password
+        <br>
+     <input type="password" style="margin:4px;border:1px solid black; margin-left:0.5px;">
+
+<button class="button">Login</button><br>
+<div class="hover">
+ <h class="row2 ">Forgot your password?</h>
+</div>
+      </form>
+
+
+
+</div>
+<div class="back">
+<div class="atr">
+
+  <h1 style="color:#032968;font-family: Arial, Helvetica, sans-serif;font-size:20px;line-height: 1.6;">Facebook help  you to connect and share with the<br>people in your life.</h1>
+<div class="icomna">
+  <img src="2314.png">
+</div>
+</div>
+<div class="create">
+  <h1 >Create an account</h1>
+  <h style="font-size:20px;line-height: 0.1;">it's free and always will be</h>
+  <form style="padding-top:20px; border-radius:5px;">
+    <input type="text" style="width:200px;height:50px;"placeholder="First name">
+    <input type="text" style="width:200px;height:50px; margin-left:5px;" placeholder="Surname">
+    <br><input type="text" style="width:400px;height:50px; margin-top:12px;" placeholder="Mobile no and email address"><br>
+    <input type="text" style="width:400px;height:50px;margin-top:12px;" placeholder="New password">
+        <div class="bir"><h style="font-size:20px;padding-top:35px; color:black;">irthday</h>
+          <br>
+          <select>
+            <option value="21">21</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+               <select>
+                   <option value="0" >August</option><option value="1">Jan</option><option value="2">Feb</option><option value="3">Mar</option><option value="4">Apr</option><option value="5">May</option></select>
+
+                <select>
+                  <option value="0" selected="1">1993</option><option value="2015">2015</option><option value="2014">2014</option><option value="2013">2013</option><option value="2012">2012</option><option value="2011">2011</option>
+                  <option value="1999">1999</option></select><br>
+                  <form>
+                    <input type="radio" name="gender" style="margin-top:20px;" value="female">Female
+                    <input type="radio" name="gneder"  style="margin-top:20px;"value="male">Male
+                 </form>
+                 <div class="fb1 why h">Why do I need to provide my birthday?</div><br>
+                 <div class="agree">
+                 <h>By clicking Sign Up, you agree to our <div class="link" style="display:inline-block;">Terms, Data Policy</div> <br>and <div class="link">Cookie Policy</div>. You may receive SMS notifications from us <br>and can opt out at any time.
+                 </div>
+
+                <button type="submit" class="signbut">Sign Up</button></div>
+        </div>
+
+</div>
+
+</div>
+
+
+  </body>
+  </html>
